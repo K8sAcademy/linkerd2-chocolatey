@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>Linkerd2</id>
+    <version>2.7.1</version>
+    <packageSourceUrl>https://github.com/linkerd/linkerd2</packageSourceUrl>
+    <owners>Guy Barrette</owners>
+    <!-- ============================== -->
+
+    <!-- == SOFTWARE SPECIFIC SECTION == -->
+    <!-- This section is about the software itself -->
+    <title>Linkerd2</title>
+    <authors>Linkerd Authors</authors>
+    <!-- projectUrl is required for the community feed -->
+    <projectUrl>https://linkerd.io</projectUrl>
+    <copyright>2020 Linkerd Authors. All rights reserved.</copyright>
+    <licenseUrl>https://github.com/linkerd/linkerd2/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://linkerd.io/2/overview/</docsUrl>
+    <tags>linkerd kubernetes mesh servicemesh</tags>
+    <summary>Linkerd - Ultralight, security-first service mesh for Kubernetes</summary>
+    <description>Linkerd is a service mesh for Kubernetes. It makes running services easier and safer by giving you runtime debugging, observability, reliability, and security—all without requiring any changes to your code.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
