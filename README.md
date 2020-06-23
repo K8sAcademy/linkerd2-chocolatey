@@ -1,5 +1,7 @@
 # linkerd2-chocolatey
 Linkerd2 CLI Chocolatey package configuration
+https://github.com/linkerd/linkerd2
+
 
 Here are the step to build the package
 
