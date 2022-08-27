@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>Linkerd2</id>
-    <version>2.11.4</version>
+    <version>2.12.0</version>
     <packageSourceUrl>https://github.com/linkerd/linkerd2</packageSourceUrl>
     <owners>Guy Barrette</owners>
     <!-- ============================== -->
@@ -13,7 +13,7 @@
     <authors>Linkerd Authors</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://linkerd.io</projectUrl>
-    <copyright>2020 Linkerd Authors. All rights reserved.</copyright>
+    <copyright>2022 Linkerd Authors. All rights reserved.</copyright>
     <licenseUrl>https://github.com/linkerd/linkerd2/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <docsUrl>https://linkerd.io/2/overview/</docsUrl>
